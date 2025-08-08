@@ -20,8 +20,11 @@ If you want to start using Radicle checkout our [guides](https://radicle.xyz/gui
 🔑 Here are some key repositories to checkout and start contributing to, and of course they will be links to our Radicle explorers 😉
 
 ❤️🪵 [heartwood](https://app.radicle.xyz/nodes/iris.radicle.xyz/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+
 🖥️ [radicle-desktop](https://app.radicle.xyz/nodes/iris.radicle.xyz/rad:z4D5UCArafTzTQpDZNQRuqswh3ury)
+
 🌐 [radicle-explorer](https://app.radicle.xyz/nodes/iris.radicle.xyz/rad:z4V1sjrXqjvFdnCUbxPFqd5p4DtH5)
+
 🗒️ [RIPs](https://app.radicle.xyz/nodes/iris.radicle.xyz/rad:z3trNYnLWS11cJWC6BbxDs5niGo82)
 
 ## Hosted Nodes
